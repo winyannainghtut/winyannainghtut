@@ -4,8 +4,6 @@
 
 Passionate Network Engineer transitioning into DevOps, combining extensive networking expertise with modern DevOps practices. My background in network engineering provides me with a unique perspective on infrastructure, automation, and system reliability – essential qualities in the DevOps world. 🌟
 
-## 💼 Professional Background
-
 ### 🚀 DevOps Journey & Focus
 - 🔄 Currently immersing myself in DevOps culture and practices
 - ⚙️ Passionate about Infrastructure as Code (IaC) and automation
