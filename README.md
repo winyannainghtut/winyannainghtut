@@ -34,7 +34,6 @@ Passionate Network Engineer transitioning into DevOps, combining extensive netwo
 
 - 📧 Email: [winyannainghtut98@gmail.com](mailto:winyannainghtut98@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/wynh](https://www.linkedin.com/in/wynh)
-- 📘 Blog: [notes.winyan.dev](https://notes.winyan.dev)
 - 🌐 Portfolio: [portfolio.winyan.dev](https://portfolio.winyan.dev)
 
 ---
