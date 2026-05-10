@@ -13,23 +13,6 @@ I started my career in networking, working with routing, switching, firewalls, I
 - Network security, firewall, and observability
 - DevOps and platform engineering practices
 
-## Tech Stack
-
-- Cloud: AWS
-- IaC: Terraform, CloudFormation
-- DevOps: Git, GitLab CI/CD, Docker, Bash
-- Kubernetes: CKA, CKAD, CKS, KCNA, KCSA
-- Networking: Cisco, Fortinet, Juniper, BGP, OSPF, VPN, SD-WAN
-- Monitoring: CloudWatch, Kibana, Zabbix
-
-## Certifications
-
-- CNCF Kubestronaut
-- AWS Certified Solutions Architect – Associate
-- HashiCorp Certified: Terraform Associate
-- Cisco Certified Network Professional Enterprise
-- Cisco Certified Network Associate
-
 ## Projects and Interests
 
 My GitHub repositories include hands-on work and learning projects around cloud infrastructure, Terraform, Docker, Go services, dashboards, web applications, and personal portfolio development.
@@ -41,7 +24,6 @@ Outside of infrastructure and DevOps, I also enjoy translation work, especially 
 - Portfolio: [portfolio.winyan.dev](https://portfolio.winyan.dev)
 - LinkedIn: [linkedin.com/in/wynh](https://www.linkedin.com/in/wynh)
 - GitLab: [gitlab.com/winyannainghtut](https://gitlab.com/winyannainghtut)
-- Email: [winyannainghtut98@gmail.com](mailto:winyannainghtut98@gmail.com)
 
 ---
 
